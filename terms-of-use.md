@@ -22,7 +22,7 @@ We may update these Terms of Use from time to time. Continued use of the app con
 
 ## 5. Contact
 
-If you have questions or concerns, contact: **calebweninger@gmail.com**
+If you have questions or concerns, contact: **calebweninger@hotmail.com**
 
 ---
 
