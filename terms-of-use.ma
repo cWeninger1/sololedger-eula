@@ -10,7 +10,7 @@ SoloLedger Premium is an auto-renewable subscription charged to your Apple ID. Y
 
 ## 2. User Data
 
-We collect minimal user information (e.g., email, XP, coin balance) to enable features. Data is securely stored using Firebase services. See our [Privacy Policy](https://cweninger1.github.io/sololedger-privacy/) for more.
+We collect minimal user information (e.g., email, XP, coin balance) to enable features. Data is securely stored using Firebase services. See our [Privacy Policy](https://cweninger1.github.io/sololedger-privacy/privacy-policy) for more.
 
 ## 3. Usage Restrictions
 
